@@ -1,0 +1,13 @@
+# Archivos temporales y de caché
+.import/
+.export/
+*.import
+*.godot-import
+
+# Configuración del usuario
+*.mono/
+*.vs/
+*.sln
+*.csproj
+.idea/
+.vscode/
